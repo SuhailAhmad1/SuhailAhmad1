@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SuhailAhmad1
 - 👀 I’m interested in coding and machine learning
 - 🌱 I’m currently learning programming and data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... suhiinu@gmail.com
 
 <!---
