@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuhailAhmad1
-- 👀 I’m interested in coding and machine learning
-- 🌱 I’m currently learning programming and data science
+- 👀 I’m a backend engineer with 1 yeaar of experience 
+- 🌱 I’m also fimilar with ML, linux, HTML, CSS, JS, VUE.Js, Python, SQL, NoSQL, Celery, Kafka, Docker
 - 📫 How to reach me ... suhiinu@gmail.com
 
 <!---
