@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuhailAhmad1
-- 👀 I’m a backend engineer with 1 yeaar of experience 
+- 👀 I’m a backend engineer with 1 year of experience 
 - 🌱 I’m also fimilar with ML, linux, HTML, CSS, JS, VUE.Js, Python, SQL, NoSQL, Celery, Kafka, Docker
 - 📫 How to reach me ... suhiinu@gmail.com
 
