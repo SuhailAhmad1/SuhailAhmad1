@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @SuhailAhmad1
-- 👀 I’m a backend engineer with 1 year of experience 
-- 🌱 I’m also fimilar with ML, linux, HTML, CSS, JS, VUE.Js, Python, SQL, NoSQL, Celery, Kafka, Docker
+- I am a Software Engineer.
+- I specialize in developing and maintaining RESTful APIs using Python and Flask.
+- I excel in crafting High-Level Designs (HLDs) and integrating Celery and Redis for efficient task processing.
+- Skilled in Micro-service architecture and real-time data processing with Apache Kafka.
+- I also have experience in web scraping using libraries like BeautifulSoup, Selenium and Requests.
+- Database implementation (MySQL, MongoDB, Weaviate).
+- I'm proficient in containerizing backend applications using Docker, ensuring seamless deployment and scalability.
 - 📫 How to reach me ... suhiinu@gmail.com
 
 <!---
